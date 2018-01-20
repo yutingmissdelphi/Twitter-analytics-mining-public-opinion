@@ -7,3 +7,6 @@ Build upon data collected with Twitter API, this repository covers python codes 
 - Explore sentiment analysis and topic modeling libraries.
 - Identify important users and user groups in social media during different crises by analyzing connections like mentions and retweets in the network.
 - Develop visualizations of various social network data set
+
+
+Special thanks to UMD iSchool INST728 E instructor Cody for pointers. 
